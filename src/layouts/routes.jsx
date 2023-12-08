@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
-import Home from "../components/web/home/Home";
+import Home from "../components/web/home/Home.jsx";
 import Layout from './Layout.jsx';
-import Categories from "../components/web/categories/Categories";
+import Categories from "../components/web/categories/Categories.jsx";
 import DashboardLayout from './DashboardLayout.jsx';
 import HomeDashboard from '../components/dashboard/home/Home.jsx';
 import CategoriesDashboard from '../components/dashboard/categories/Categories.jsx';
